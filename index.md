@@ -3,7 +3,7 @@
 - [Nils Ueter](https://github.com/NilsUeter)
 
 ## Current projects
-- **[Smartphone Picker](smartphone-picker.com)**
+- **[Smartphone Picker](https://smartphone-picker.com)**
     - Simple support to choose the right smartphone with simple filters and compare features
 
 ## Work in progress
